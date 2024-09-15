@@ -1,0 +1,16 @@
+id,Product,Category,Price
+1,Laptop,System Engineering,1200.00
+2,Database Management System,System Engineering,800.00
+3,Simulation Software,System Engineering,450.00
+4,Network Switch,System Engineering,350.00
+5,Server Rack,System Engineering,1500.00
+6,Circuit Board,Electronic Engineering,30.00
+7,Sensor Module,Electronic Engineering,20.00
+8,Digital Oscilloscope,Electronic Engineering,300.00
+9,Microcontroller Kit,Electronic Engineering,50.00
+10,Soldering Station,Electronic Engineering,100.00
+11,Architectural Design Software,Architecture,700.00
+12,3D Printer,Architecture,2500.00
+13,4K Monitor,Architecture,600.00
+14,Laser Cutter,Architecture,2000.00
+15,Virtual Reality Headset,Architecture,400.00

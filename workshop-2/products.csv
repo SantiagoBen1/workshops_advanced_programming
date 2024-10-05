@@ -1,0 +1,16 @@
+id,Product,Category,Price
+1,Laptop,System Engineering,1200.0
+2,Database Management System,System Engineering,800.0
+3,Simulation Software,System Engineering,450.0
+4,Network Switch,System Engineering,350.0
+5,Server Rack,System Engineering,1500.0
+6,Circuit Board,Electronic Engineering,30.0
+7,Sensor Module,Electronic Engineering,20.0
+8,Digital Oscilloscope,Electronic Engineering,300.0
+9,Microcontroller Kit,Electronic Engineering,50.0
+10,Soldering Station,Electronic Engineering,100.0
+11,Architectural Design Software,Architecture,700.0
+12,3D Printer,Architecture,2500.0
+13,4K Monitor,Architecture,600.0
+14,Laser Cutter,Architecture,2000.0
+15,Virtual Reality Headset,Architecture,400.0
